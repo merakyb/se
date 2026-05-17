@@ -410,6 +410,10 @@ King Parking은 사용자와 주차장을 연결하여 주차 공간을 효율�
 - 주차 공간 관리
 - 실시간 현황 제공
 
+### Collaborators
+- 관리자
+- 예약
+  
 ### Attributes
 - 주차장 ID
 - 위치
