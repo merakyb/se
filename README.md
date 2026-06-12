@@ -13,5 +13,7 @@
 
 [Project 5](https://github.com/merakyb/se/blob/main/doc/Project%205.md) (se/doc/Project5.md) - 요구사항 분석서
 
+[Project 6](https://github.com/merakyb/se/blob/main/doc/Project%206.md) (se/doc/Project6.md) - 테스트 보고서
+
 
 
